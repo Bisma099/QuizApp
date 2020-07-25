@@ -1,0 +1,40 @@
+body {
+    --hue: var(--hue-neutral);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image : url(https://i.ytimg.com/vi/RLjWkABi96U/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  position: absolute;
+  
+padding-right: 20px;
+padding-top: 200px;
+  }
+  image{
+    image-resolution: 500px;
+    width: 500px;
+  }
+  button{
+    font-family: sans-serif !important;
+    color: coral !important;
+    cursor: pointer;
+    text-shadow: coral !important;
+    background-color:#0097A7 ;
+    position: absolute !important;
+    top: 83% !important;
+    position: absolute;
+    text-decoration-color: red;
+    font-size: 40px !important;
+    margin: 20px 50px !important;
+    cursor: pointer;
+  }
+
+
+  
